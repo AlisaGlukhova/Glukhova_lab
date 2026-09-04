@@ -13,7 +13,7 @@ sections:
     content:
       title: Structural basis for Wnt acylation
       text: |
-        {{< figure src="project1.jpg" width="40%" align="right" >}}
+        {{< figure src="project1.jpg" width="80%" align="right" >}}
         Wnt proteins are essential for many cell processes, including differentiation and migration. Porcupine (PORCN) is a transmembrane protein that modifies all Wnts with a fatty molecule, which is crucial for Wnt secretion and activity. Because of this, PORCN inhibitors show potential for treating various types of human cancers. Using cryo-EM, we achieved the highest resolution PORCN structure (2.5 Å) with a small molecule inhibitor. This project will expand upon our PORCN work and employ cryo-EM to determine the PORCN-Wnt complex structure, aiming to understand Wnt modification by PORCN at the molecular level.
     design:
       columns: '2'
@@ -38,7 +38,7 @@ sections:
     content:
       title: 12-Lipoxygenase structure and inhibition
       text: |
-        {{< figure src="project4.jpg" width="40%" align="left" >}}
+        {{< figure src="project4.jpg" width="80%" align="left" >}}
         The enzyme 12-Lipoxygenase (12-LOX) is a promising drug target for preventing platelet activation and thrombosis. ML355, a 12-LOX inhibitor, has shown potential in treating heparin-induced thrombocytopenia. In collaboration with the Thal, Holman, and Holinstat laboratories, we were the first to determine high-resolution structures of human 12-LOX, including structures with the clinically relevant inhibitor ML355 and an endogenous acyl-coenzyme A. This project aims to build upon our structural studies to further understand 12-LOX biology, including its oligomeric states, catalysis, and membrane binding, and to gain insights into a new generation of 12-LOX inhibitors.
     design:
       columns: '2'
