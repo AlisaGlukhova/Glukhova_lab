@@ -39,3 +39,15 @@
 .share-box {
   display: none;
 }
+// Smaller font on people page
+.people-widget .person-name {
+  font-size: 0.9rem;
+}
+
+.people-widget .person-position {
+  font-size: 0.8rem;
+}
+
+.people-widget h2 {
+  font-size: 1.3rem;
+}
