@@ -37,7 +37,7 @@ publishDate: "2021-05-11T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Proceedings of the National Academy of Sciences, 118*(19)"
 publication_short: "*PNAS*"
-abstract: ""
+abstract: "Neutralizing antibodies are important for immunity against SARS-CoV-2 and as therapeutics for the prevention and treatment of COVID-19. Here, we identified high-affinity nanobodies from alpacas immunized with coronavirus spike and receptor-binding domains (RBD) that disrupted RBD engagement with the human receptor angiotensin-converting enzyme 2 (ACE2) and potently neutralized SARS-CoV-2. Epitope mapping, X-ray crystallography, and cryo-electron microscopy revealed two distinct antigenic sites and showed two neutralizing nanobodies from different epitope classes bound simultaneously to the spike trimer. Nanobody-Fc fusions of the four most potent nanobodies blocked ACE2 engagement with RBD variants present in human populations and potently neutralized both wild-type SARS-CoV-2 and the N501Y D614G variant at concentrations as low as 0.1 nM. Prophylactic administration of either single nanobody-Fc or as mixtures reduced viral loads by up to 104-fold in mice infected with the N501Y D614G SARS-CoV-2 virus. These results suggest a role for nanobody-Fc fusions as prophylactic agents against SARS-CoV-2."
 summary: ""
 tags: []
 featured: false
