@@ -1,4 +1,3 @@
-yaml
 ---
 title: "Positive allosteric mechanisms of adenosine A1 receptor-mediated analgesia"
 authors:
