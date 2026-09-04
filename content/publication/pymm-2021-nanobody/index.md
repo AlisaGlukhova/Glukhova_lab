@@ -1,4 +1,3 @@
-yaml
 ---
 title: "Nanobody cocktails potently neutralize SARS-CoV-2 D614G N501Y variant and protect mice"
 authors:
