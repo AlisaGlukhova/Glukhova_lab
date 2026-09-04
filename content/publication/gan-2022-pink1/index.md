@@ -1,4 +1,3 @@
-yaml
 ---
 title: "Activation mechanism of PINK1"
 authors:
