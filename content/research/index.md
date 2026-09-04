@@ -8,7 +8,7 @@ sections:
       title: Our Research
       subtitle: We use cryo-electron microscopy and complementary structural biology techniques to determine high-resolution structures of membrane proteins and protein complexes relevant to human disease.
       text: |
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
 
         <div style="background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); overflow: hidden;">
           <img src="project1.jpg" style="width: 100%; height: 200px; object-fit: cover;">
