@@ -1,22 +1,23 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
-type: landing
 
+title:
+date: 2026-09-04
+type: landing
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Glukhova Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        We use cryo-electron microscopy to determine high-resolution structures of membrane proteins and protein complexes relevant to human disease.
+
+        Based at the WEHI, Melbourne, Australia.
+
   - block: collection
     content:
       title: Latest News
@@ -35,30 +36,10 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:
