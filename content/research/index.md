@@ -13,7 +13,7 @@ sections:
     content:
       title: Structural basis for Wnt acylation
       text: |
-        {{< figure src="project1.jpg" width="80%" align="right" >}}
+        {{< figure src="project1.jpg" width="60%" align="right" >}}
         Wnt proteins are essential for many cell processes, including differentiation and migration. Porcupine (PORCN) is a transmembrane protein that modifies all Wnts with a fatty molecule, which is crucial for Wnt secretion and activity. Because of this, PORCN inhibitors show potential for treating various types of human cancers. Using cryo-EM, we achieved the highest resolution PORCN structure (2.5 Å) with a small molecule inhibitor. This project will expand upon our PORCN work and employ cryo-EM to determine the PORCN-Wnt complex structure, aiming to understand Wnt modification by PORCN at the molecular level.
     design:
       columns: '2'
