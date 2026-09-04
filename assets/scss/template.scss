@@ -7,3 +7,11 @@
 .cta-group {
   justify-content: center;
 }
+// Publications list - smaller font and numbered list
+.pub-list-item {
+  font-size: 0.85rem;
+}
+
+.pub-list-item .article-metadata {
+  font-size: 0.8rem;
+}
