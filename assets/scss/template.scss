@@ -15,3 +15,23 @@
 .pub-list-item .article-metadata {
   font-size: 0.8rem;
 }
+// Number the publications list
+.pub-lists {
+  counter-reset: pub-counter;
+  list-style: none;
+  padding-left: 0;
+}
+
+.pub-lists .pub-list-item {
+  counter-increment: pub-counter;
+  position: relative;
+  padding-left: 2rem;
+}
+
+.pub-lists .pub-list-item::before {
+  content: counter(pub-counter) ".";
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+  color: inherit;
+}
