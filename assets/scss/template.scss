@@ -51,9 +51,16 @@
 .people-widget h2 {
   font-size: 1.3rem;
 }
-// Larger image on events listing
+
+
+// Events listing - image below text, larger
+.event-summary {
+  flex-direction: column;
+}
+
 .event-summary img {
-  width: 200px;
-  height: 150px;
+  width: 100%;
+  height: 250px;
   object-fit: cover;
+  margin-top: 1rem;
 }
