@@ -4,9 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-sharing:
-  enable: false
-  
 appearance:
   theme_day: minimal
   theme_night:
@@ -64,6 +61,8 @@ locale:
 # Site features
 
 features:
+  sharing:
+    enable: false
   syntax_highlighter:
     enable: false
     extra_languages:
