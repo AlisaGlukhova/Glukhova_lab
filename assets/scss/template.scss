@@ -64,3 +64,16 @@
   object-fit: cover;
   margin-top: 1rem;
 }
+
+
+// Research page - smaller fonts
+.markdown-col-12 h1,
+.markdown-col-12 h2 {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.markdown-col-12 p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
