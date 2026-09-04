@@ -8,6 +8,7 @@ sections:
       title: Meet the Team
       user_groups:
           - Principal Investigator
+          - Lab Manager  
           - Postdoctoral Researchers
           - PhD Students
           - Research Assistants
