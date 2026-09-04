@@ -20,8 +20,8 @@ sections:
         country: Australia
         country_code: AU
       coordinates:
-        latitude: '-37.7993'
-        longitude: '144.9521'
+        latitude: '-37.79794128443915'
+        longitude: '144.95607018459452'
       directions: 
       office_hours:
         - ''
