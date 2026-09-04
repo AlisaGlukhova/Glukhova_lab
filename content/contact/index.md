@@ -10,7 +10,6 @@ sections:
       title: Contact
       text: |-
         We are located at the Walter and Eliza Hall Institute of Medical Research (WEHI), Melbourne, Australia.
-    email: glukhova.a@wehi.edu.au
     phone: ''
       address:
         street: 1G Royal Parade
