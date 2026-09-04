@@ -10,6 +10,7 @@ bio: ''
 social: []
 email: ''
 highlight_name: false
+superuser: false
 user_groups:
   - Postdoctoral Researchers
 ---
