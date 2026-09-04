@@ -3,7 +3,7 @@ title: Alisa Glukhova
 first_name: Alisa
 last_name: Glukhova
 superuser: true
-role: Laboratory Head
+role: Laboratory Head, Snow Medical and NHMRC Fellow
 organizations:
   - name: Walter and Eliza Hall Institute of Medical Research
     url: 'https://www.wehi.edu.au'
